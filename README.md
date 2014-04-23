@@ -8,6 +8,8 @@ Notes or links to useful PHP stuff.
 
 ## Frameworks
 
+(Laravel)[http://laravel.com]
+
 (Symfony)[http://symfony.com]
 
 (Zend Framework)[http://framework.zend.com]
