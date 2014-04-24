@@ -12,6 +12,8 @@ Notes or links to useful PHP stuff.
 
 (Symfony)[http://symfony.com]
 
+(yii)[http://www.yiiframework.com]
+
 (Zend Framework)[http://framework.zend.com]
 
 ## Testing
