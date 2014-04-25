@@ -8,6 +8,8 @@ Notes or links to useful PHP stuff.
 
 ## Frameworks
 
+(CodeIgniter)[http://cakephp.org]
+
 (Laravel)[http://laravel.com]
 
 (Symfony)[http://symfony.com]
