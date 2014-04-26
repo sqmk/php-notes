@@ -18,6 +18,10 @@ Notes or links to useful PHP stuff.
 
 (Zend Framework)[http://framework.zend.com]
 
+## Standards
+
+(php-fig)[http://www.php-fig.org]
+
 ## Testing
 
 (Codeception)[http://codeception.com]
