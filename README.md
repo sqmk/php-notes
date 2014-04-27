@@ -22,6 +22,8 @@ Notes or links to useful PHP stuff.
 
 (php-fig)[http://www.php-fig.org]
 
+(pear)[http://pear.php.net/manual/en/standards.php]
+
 ## Testing
 
 (Codeception)[http://codeception.com]
