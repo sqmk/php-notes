@@ -18,6 +18,10 @@ Notes or links to useful PHP stuff.
 
 (Zend Framework)[http://framework.zend.com]
 
+## ORM
+
+(propel)[http://propelorm.org]
+
 ## Standards
 
 (php-fig)[http://www.php-fig.org]
