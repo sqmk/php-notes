@@ -20,6 +20,8 @@ Notes or links to useful PHP stuff.
 
 ## ORM
 
+(doctrine)[http://www.doctrine-project.org]
+
 (propel)[http://propelorm.org]
 
 ## Standards
