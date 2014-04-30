@@ -24,6 +24,10 @@ Notes or links to useful PHP stuff.
 
 (propel)[http://propelorm.org]
 
+## Message Bus
+
+(pecl amqp)[http://pecl.php.net/package/amqp]
+
 ## Standards
 
 (php-fig)[http://www.php-fig.org]
