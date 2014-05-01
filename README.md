@@ -28,6 +28,8 @@ Notes or links to useful PHP stuff.
 
 (pecl amqp)[http://pecl.php.net/package/amqp]
 
+(php-amqplib)[https://github.com/videlalvaro/php-amqplib]
+
 ## Standards
 
 (php-fig)[http://www.php-fig.org]
