@@ -30,6 +30,8 @@ Notes or links to useful PHP stuff.
 
 (php-amqplib)[https://github.com/videlalvaro/php-amqplib]
 
+(pecl stomp)[http://pecl.php.net/package/stomp]
+
 ## Standards
 
 (php-fig)[http://www.php-fig.org]
