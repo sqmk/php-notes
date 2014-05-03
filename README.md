@@ -32,6 +32,8 @@ Notes or links to useful PHP stuff.
 
 (pecl stomp)[http://pecl.php.net/package/stomp]
 
+(stomp-php)[https://github.com/dejanb/stomp-php]
+
 ## Standards
 
 (php-fig)[http://www.php-fig.org]
