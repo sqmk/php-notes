@@ -48,3 +48,6 @@ Notes or links to useful PHP stuff.
 
 (phpspec)[http://www.phpspec.net]
 
+## Certification
+
+(Zend PHP Certification)[http://www.zend.com/en/services/certification/]
