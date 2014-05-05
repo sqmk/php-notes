@@ -34,6 +34,10 @@ Notes or links to useful PHP stuff.
 
 (stomp-php)[https://github.com/dejanb/stomp-php]
 
+## Payments
+
+(Stripe)[https://github.com/stripe/stripe-php]
+
 ## Standards
 
 (php-fig)[http://www.php-fig.org]
