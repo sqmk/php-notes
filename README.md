@@ -38,6 +38,8 @@ Notes or links to useful PHP stuff.
 
 (Stripe)[https://github.com/stripe/stripe-php]
 
+(Braintree)[https://www.braintreepayments.com/docs/php]
+
 ## Standards
 
 (php-fig)[http://www.php-fig.org]
