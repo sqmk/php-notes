@@ -40,6 +40,10 @@ Notes or links to useful PHP stuff.
 
 (Braintree)[https://www.braintreepayments.com/docs/php]
 
+## Image Manipulation
+
+(GD)[http://www.php.net/gd]
+
 ## Standards
 
 (php-fig)[http://www.php-fig.org]
