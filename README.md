@@ -44,6 +44,8 @@ Notes or links to useful PHP stuff.
 
 (GD)[http://www.php.net/gd]
 
+(ImageMagick)[http://pecl.php.net/package/imagick]
+
 ## Standards
 
 (php-fig)[http://www.php-fig.org]
