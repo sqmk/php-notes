@@ -46,6 +46,8 @@ Notes or links to useful PHP stuff.
 
 (ImageMagick)[http://pecl.php.net/package/imagick]
 
+(Intervention)[http://image.intervention.io]
+
 ## Standards
 
 (php-fig)[http://www.php-fig.org]
