@@ -18,6 +18,10 @@ Notes or links to useful PHP stuff.
 
 (Zend Framework)[http://framework.zend.com]
 
+## Database
+
+(PDO)[http://www.php.net/manual/en/book.pdo.php]
+
 ## ORM
 
 (doctrine)[http://www.doctrine-project.org]
