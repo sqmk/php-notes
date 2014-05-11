@@ -24,6 +24,10 @@ Notes or links to useful PHP stuff.
 
 (Mongo)[http://pecl.php.net/package/mongo]
 
+## Cache
+
+(Memcached)[http://pecl.php.net/package/memcached]
+
 ## ORM
 
 (doctrine)[http://www.doctrine-project.org]
