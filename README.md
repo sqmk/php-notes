@@ -22,6 +22,8 @@ Notes or links to useful PHP stuff.
 
 (PDO)[http://www.php.net/manual/en/book.pdo.php]
 
+(Mongo)[http://pecl.php.net/package/mongo]
+
 ## ORM
 
 (doctrine)[http://www.doctrine-project.org]
