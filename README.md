@@ -28,6 +28,8 @@ Notes or links to useful PHP stuff.
 
 (Memcached)[http://pecl.php.net/package/memcached]
 
+(Redis)[http://pecl.php.net/package/redis]
+
 ## ORM
 
 (doctrine)[http://www.doctrine-project.org]
