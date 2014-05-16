@@ -58,6 +58,8 @@ Notes or links to useful PHP stuff.
 
 (Joomla)[http://www.joomla.org]
 
+(MODX)[http://modx.com]
+
 ## Image Manipulation
 
 (GD)[http://www.php.net/gd]
