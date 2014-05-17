@@ -62,6 +62,10 @@ Notes or links to useful PHP stuff.
 
 (MODX)[http://modx.com]
 
+## Blog
+
+[nibble](http://www.nibbleblog.com)
+
 ## Image Manipulation
 
 (GD)[http://www.php.net/gd]
