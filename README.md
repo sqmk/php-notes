@@ -66,6 +66,8 @@ Notes or links to useful PHP stuff.
 
 [nibble](http://www.nibbleblog.com)
 
+[wordpress](http://wordpress.org)
+
 ## Image Manipulation
 
 (GD)[http://www.php.net/gd]
