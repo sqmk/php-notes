@@ -4,63 +4,63 @@ Notes or links to useful PHP stuff.
 
 ## PHP
 
-(PHP.net)[http://php.net]
+[PHP.net](http://php.net)
 
 ## Frameworks
 
-(CodeIgniter)[http://cakephp.org]
+[CodeIgniter](http://cakephp.org)
 
-(Laravel)[http://laravel.com]
+[Laravel](http://laravel.com)
 
-(Symfony)[http://symfony.com]
+[Symfony](http://symfony.com)
 
-(yii)[http://www.yiiframework.com]
+[yii](http://www.yiiframework.com)
 
-(Zend Framework)[http://framework.zend.com]
+[Zend Framework](http://framework.zend.com)
 
 ## Database
 
-(PDO)[http://www.php.net/manual/en/book.pdo.php]
+[PDO](http://www.php.net/manual/en/book.pdo.php)
 
-(Mongo)[http://pecl.php.net/package/mongo]
+[Mongo](http://pecl.php.net/package/mongo)
 
 ## Cache
 
-(Memcached)[http://pecl.php.net/package/memcached]
+[Memcached](http://pecl.php.net/package/memcached)
 
-(Redis)[http://pecl.php.net/package/redis]
+[Redis](http://pecl.php.net/package/redis)
 
 ## ORM
 
-(doctrine)[http://www.doctrine-project.org]
+[doctrine](http://www.doctrine-project.org)
 
-(propel)[http://propelorm.org]
+[propel](http://propelorm.org)
 
 ## Message Bus
 
-(pecl amqp)[http://pecl.php.net/package/amqp]
+[pecl amqp](http://pecl.php.net/package/amqp)
 
-(php-amqplib)[https://github.com/videlalvaro/php-amqplib]
+[php-amqplib](https://github.com/videlalvaro/php-amqplib)
 
-(pecl stomp)[http://pecl.php.net/package/stomp]
+[pecl stomp](http://pecl.php.net/package/stomp)
 
-(stomp-php)[https://github.com/dejanb/stomp-php]
+[stomp-php](https://github.com/dejanb/stomp-php)
 
 ## Payments
 
-(Stripe)[https://github.com/stripe/stripe-php]
+[Stripe](https://github.com/stripe/stripe-php)
 
-(Braintree)[https://www.braintreepayments.com/docs/php]
+[Braintree](https://www.braintreepayments.com/docs/php)
 
 ## CMS
 
-(Concrete5)[http://www.concrete5.org]
+[Concrete5](http://www.concrete5.org)
 
-(Drupal)[https://drupal.org]
+[Drupal](https://drupal.org)
 
-(Joomla)[http://www.joomla.org]
+[Joomla](http://www.joomla.org)
 
-(MODX)[http://modx.com]
+[MODX](http://modx.com)
 
 ## Blog
 
@@ -70,26 +70,26 @@ Notes or links to useful PHP stuff.
 
 ## Image Manipulation
 
-(GD)[http://www.php.net/gd]
+[GD](http://www.php.net/gd)
 
-(ImageMagick)[http://pecl.php.net/package/imagick]
+[ImageMagick](http://pecl.php.net/package/imagick)
 
-(Intervention)[http://image.intervention.io]
+[Intervention](http://image.intervention.io)
 
 ## Standards
 
-(php-fig)[http://www.php-fig.org]
+[php-fig](http://www.php-fig.org)
 
-(pear)[http://pear.php.net/manual/en/standards.php]
+[pear](http://pear.php.net/manual/en/standards.php)
 
 ## Testing
 
-(Codeception)[http://codeception.com]
+[Codeception](http://codeception.com)
 
-(PHPUnit)[http://phpunit.de]
+[PHPUnit](http://phpunit.de)
 
-(phpspec)[http://www.phpspec.net]
+[phpspec](http://www.phpspec.net)
 
 ## Certification
 
-(Zend PHP Certification)[http://www.zend.com/en/services/certification/]
+[Zend PHP Certification](http://www.zend.com/en/services/certification/)
