@@ -90,6 +90,10 @@ Notes or links to useful PHP stuff.
 
 [phpspec](http://www.phpspec.net)
 
+## Books
+
+[PHP and MySQL Web Development](http://www.amazon.com/PHP-MySQL-Web-Development-4th/dp/0672329166/)
+
 ## Certification
 
 [Zend PHP Certification](http://www.zend.com/en/services/certification/)
