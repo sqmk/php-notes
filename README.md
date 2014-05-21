@@ -94,6 +94,8 @@ Notes or links to useful PHP stuff.
 
 [PHP and MySQL Web Development](http://www.amazon.com/PHP-MySQL-Web-Development-4th/dp/0672329166/)
 
+[PHP Objects, Patterns and Practice](http://www.amazon.com/Objects-Patterns-Practice-Experts-Source/dp/143022925X/)
+
 ## Certification
 
 [Zend PHP Certification](http://www.zend.com/en/services/certification/)
