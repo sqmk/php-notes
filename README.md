@@ -96,6 +96,8 @@ Notes or links to useful PHP stuff.
 
 [PHP Objects, Patterns and Practice](http://www.amazon.com/Objects-Patterns-Practice-Experts-Source/dp/143022925X/)
 
+[PHP5 CMS Framework](http://www.amazon.com/PHP-5-CMS-Framework-Development/dp/1849511349/)
+
 ## Certification
 
 [Zend PHP Certification](http://www.zend.com/en/services/certification/)
