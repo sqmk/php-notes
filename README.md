@@ -98,6 +98,8 @@ Notes or links to useful PHP stuff.
 
 [PHP5 CMS Framework](http://www.amazon.com/PHP-5-CMS-Framework-Development/dp/1849511349/)
 
+[Learning PHP Design Patterns](http://www.amazon.com/Learning-Design-Patterns-William-Sanders/dp/1449344917/)
+
 ## Certification
 
 [Zend PHP Certification](http://www.zend.com/en/services/certification/)
