@@ -100,6 +100,8 @@ Notes or links to useful PHP stuff.
 
 [Learning PHP Design Patterns](http://www.amazon.com/Learning-Design-Patterns-William-Sanders/dp/1449344917/)
 
+[PHP Solutions](http://www.amazon.com/PHP-Solutions-Dynamic-Design-Made/dp/1430232498/)
+
 ## Certification
 
 [Zend PHP Certification](http://www.zend.com/en/services/certification/)
