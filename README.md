@@ -90,6 +90,10 @@ Notes or links to useful PHP stuff.
 
 [phpspec](http://www.phpspec.net)
 
+## Hosting
+
+[phpcloud](http://www.phpcloud.com/develop)
+
 ## Books
 
 [PHP and MySQL Web Development](http://www.amazon.com/PHP-MySQL-Web-Development-4th/dp/0672329166/)
