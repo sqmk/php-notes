@@ -52,6 +52,10 @@ Notes or links to useful PHP stuff.
 
 [Braintree](https://www.braintreepayments.com/docs/php)
 
+## Search
+
+[Elastica](http://elastica.io)
+
 ## CMS
 
 [Concrete5](http://www.concrete5.org)
