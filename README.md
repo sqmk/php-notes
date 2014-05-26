@@ -56,6 +56,8 @@ Notes or links to useful PHP stuff.
 
 [Elastica](http://elastica.io)
 
+[Sphinx](http://pecl.php.net/package/sphinx)
+
 ## CMS
 
 [Concrete5](http://www.concrete5.org)
